@@ -1,0 +1,12 @@
+.newTask {
+    color: red;
+    font-size: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+    text-decoration: underline;
+    
+}
+
+.completed {
+    color: black;
+    font-size: 1rem;
+}
